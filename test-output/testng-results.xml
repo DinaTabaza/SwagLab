@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-12T10:13:52 EET" name="Default suite" finished-at="2023-05-12T10:14:08 EET" duration-ms="16669">
+    <groups>
+    </groups>
+    <test started-at="2023-05-12T10:13:52 EET" name="Default test" finished-at="2023-05-12T10:14:08 EET" duration-ms="16669">
+      <class name="MyTestCase">
+        <test-method is-config="true" signature="MyBeforeTest()[pri:0, instance:MyTestCase@3a8fb023]" started-at="2023-05-12T10:13:52 EET" name="MyBeforeTest" finished-at="2023-05-12T10:14:00 EET" duration-ms="7940" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MyBeforeTest -->
+        <test-method signature="AddAllItemToCart()[pri:1, instance:MyTestCase@3a8fb023]" started-at="2023-05-12T10:14:00 EET" name="AddAllItemToCart" finished-at="2023-05-12T10:14:05 EET" duration-ms="5360" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddAllItemToCart -->
+        <test-method signature="RemoveAllItemsFromTheCart()[pri:2, instance:MyTestCase@3a8fb023]" started-at="2023-05-12T10:14:05 EET" name="RemoveAllItemsFromTheCart" finished-at="2023-05-12T10:14:08 EET" duration-ms="3297" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RemoveAllItemsFromTheCart -->
+        <test-method signature="TestTheTitle()[pri:3, instance:MyTestCase@3a8fb023]" started-at="2023-05-12T10:14:08 EET" name="TestTheTitle" finished-at="2023-05-12T10:14:08 EET" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestTheTitle -->
+      </class> <!-- MyTestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
