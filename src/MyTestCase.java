@@ -1,8 +1,3 @@
-//Lecture (8 + 9) 
-//Summary :
-//How To Login Before The Test
-//In E-commerce Websites How to Add And Remove All items from cart
-//How To assert the  Number of items that added and remove same number in cart
 
 import java.util.List;
 
